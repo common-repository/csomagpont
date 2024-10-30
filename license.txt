@@ -1,0 +1,14 @@
+The following code is a derivative work of the code from the woocommerce-mav-it-deliveo project, 
+which is licensed GPLv3. This code therefore is also licensed under the terms of the GNU 
+Public License, verison 3.
+
+You can reach the woocommerce-mav-it-deliveo project here: https://wordpress.org/plugins/deliveo/
+
+Changes made to the original code (2019-12-01):
+
+- Modified variable names to reflect the new project
+- Modified design elements (loader, icons)
+- Added functionality for orders with delivery point shipping modes
+- Added functionality for MPL sending documents
+- Modified delivery label functionality
+- Removed CSV export functionality
